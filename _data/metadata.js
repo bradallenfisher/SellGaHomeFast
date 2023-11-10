@@ -1,11 +1,11 @@
 module.exports = {
-	title: "Top Home Buying Companies",
-	url: "https://tophomebuyingcompanies.com",
+	title: "SellGaHomeFast",
+	url: "https://sellgahomefast.com",
 	language: "en",
-	description: "A blog about home buying companies",
+	description: "Tips and tricks about speeding up the home selling process in Georgia",
 	author: {
-		name: "Sean Anderson",
-		email: "Sean.A.derrr@gmail.com",
-		url: "https://flippinggeorgiahouses.com/about"
+		name: "Gina Frenzetta",
+		email: "GFU96@gmail.com",
+		url: "https://sellgahomefast.comabout"
 	}
 }
