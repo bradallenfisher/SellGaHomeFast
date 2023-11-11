@@ -3,11 +3,11 @@ module.exports = {
 		"posts"
 	],
 	"layout": "layouts/post.njk",
-	sitename: "Top Home Buying Companies",
-    sitedesc: "Blogs about home buying companies",
-    siteurl: "https://tophomebuyingcompanies.com",
+	sitename: "Sell Ga Home Fast",
+    sitedesc: "The fastest way to sell houses in the georgia market",
+    siteurl: "https://sellgahomefast.com",
     siteimgsrc: "/img/logo.png",
     siteimgwidth: "500",
     siteimgheight: "500",
-    author: "Sean Anderson"
+    author: "Gina Frenzentta"
 };
